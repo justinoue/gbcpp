@@ -1,0 +1,1 @@
+g++ -std=c++11 main.cpp -lcurl -I /home/justin/projects/cpp/libs/rapidjson-master/include/ -o gb_api
